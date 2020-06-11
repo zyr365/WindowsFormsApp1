@@ -7,3 +7,5 @@
 3. 如按上述步骤操作后还是不能实现相应功能，请根据NET_DVR_GetLastError返回的错误号判断原因。
 
 4.适用型号：DS-2CD2D15DWD 2.8MM，DS-2CD6424FWD-20 3.7MM，DS-2CD6425FWD-20  2.8MM B
+
+5.dll和sdk可以上海康官网下载：https://www.hikvision.com/cn/download_61.html
